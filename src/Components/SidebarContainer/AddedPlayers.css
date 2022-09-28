@@ -1,0 +1,9 @@
+.selected-players-container {
+  width: 100%;
+  height: 10rem;
+  text-align: center;
+  text-decoration: underline;
+  background-color: aquamarine;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}

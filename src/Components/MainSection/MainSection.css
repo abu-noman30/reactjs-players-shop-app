@@ -1,0 +1,30 @@
+.search-bar-container {
+  text-align: center;
+}
+.search-bar {
+  width: 30%;
+  height: 2rem;
+  margin: 1rem auto;
+  border: 0.2rem solid #ccc;
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+}
+.search-btn {
+  height: 2rem;
+  margin: 1rem auto;
+  padding: 0 1rem;
+  background-color: #4caf50;
+  border-radius: 0.5rem;
+  color: white;
+}
+
+.players-section {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-gap: 4rem;
+}
+
+
+  

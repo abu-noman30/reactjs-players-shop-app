@@ -1,0 +1,29 @@
+.players-card {
+  width: 100%;
+  border: 0.1rem solid black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  background-color: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: left;
+}
+.player-img {
+  width: 100%;
+  height: 50%;
+}
+
+.btn-container {
+  text-align: center;
+}
+.btn-container button {
+  width: 50%;
+  margin: 0.1rem 0.1rem;
+  height: 2rem;
+  padding: 0 1rem;
+  background-color: #4caf50;
+  border-radius: 0.5rem;
+  color: white;
+}
